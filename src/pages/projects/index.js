@@ -72,7 +72,7 @@ export default function Projects() {
                     </CardCustom>
                 </Grid>
 
-                {/*thejewbot*/}
+                {/*themootbot*/}
                 <Grid>
                     <CardCustom>
                         <CardActionArea href={useBaseUrl("projects/discordBot")} className={styles.projectCard}>

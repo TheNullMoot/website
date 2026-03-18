@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'TheJewGamer', // Usually your GitHub org/user name.
+  organizationName: 'TheNullMoot', // Usually your GitHub org/user name.
   projectName: 'website', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -58,7 +58,7 @@ const config = {
           { to: '/aboutMe', label: 'About Me', position: 'left' },
           { to: '/projects', label: 'Projects', position: 'left' },
           {
-            href: 'https://github.com/TheJewGamer',
+            href: 'https://github.com/TheNullMoot',
             label: 'GitHub',
             position: 'right',
           },
